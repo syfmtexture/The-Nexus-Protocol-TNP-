@@ -147,3 +147,5 @@ Contributions, critiques, and protocol discussions are welcome.
 This project values **clarity over hype** and **infrastructure over apps**.
 Just say it.
 
+
+# View more here: https://fu-tnp.vercel.app/
