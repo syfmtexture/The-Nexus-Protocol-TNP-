@@ -148,4 +148,4 @@ This project values **clarity over hype** and **infrastructure over apps**.
 Just say it.
 
 
-# View more here: https://fu-tnp.vercel.app/
+View more here: https://fu-tnp.vercel.app/
